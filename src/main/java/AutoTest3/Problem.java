@@ -28,8 +28,10 @@ public class Problem {
         return "BFS";
     }
 
-    public String applyAlgorithm(String) {
-if ()
+    public String applyAlgorithm(boolean useDFSAlgorithm) {
+if (useDFSAlgorithm == true ){
+            return
+        }
 
         //  If property useDFSalgorithm is true, return the result of applying algorithm DFS.
         //    If property useDFSalgorithm is false, return the result of applying algorithm DFS.
